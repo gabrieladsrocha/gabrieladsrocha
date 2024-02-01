@@ -13,4 +13,4 @@
 ![Blog](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 </div><br/>
 
-## Apaixonada por tecnologia, e todas as maravilhas que ela pode fazer para melhorar as nossas vidas. Inovar nos dias de hoje é um diferencial para qualquer setor e segmento, avançar em passos curtos, mas com ousadia!
+## Apaixonada por tecnologia, e todas as maravilhas que ela proporciona para melhorar as nossas vidas. Inovar nos dias de hoje é um diferencial para qualquer setor e segmento, avançar em passos curtos, mas com ousadia!
